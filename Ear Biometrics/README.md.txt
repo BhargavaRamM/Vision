@@ -1,3 +1,0 @@
-Ear Biometrics in Human Identification:
-
-This project uses Principle component analysis algorithm, which is widely used in face recognition, to identify humans based on ear biometrics. The idea is to simply calculate the nearest eigen values for the given image and test it against the database of images to find the match or nearest match. This significantly reduces the computation when compared to face recognition. 
